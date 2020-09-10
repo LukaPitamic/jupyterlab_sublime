@@ -5,9 +5,9 @@
 
 SublimeText-like behaviour in Jupyter Lab
 
-## wtf
+## what the fuck?
 
 Forked: https://github.com/ryantam626/jupyterlab_sublime  
-...and changed:  
+...and changed file /src/:  
 Accel + Shift + D => Ctrl + Shift + D  
 because of the sigle-mode-view collision on Mac
