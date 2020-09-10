@@ -8,6 +8,6 @@ SublimeText-like behaviour in Jupyter Lab
 ## what the fuck?
 
 Forked: https://github.com/ryantam626/jupyterlab_sublime  
-...and changed file /src/:  
+...and changed in file `/src/index.ts`:  
 Accel + Shift + D => Ctrl + Shift + D  
 because of the sigle-mode-view collision on Mac
