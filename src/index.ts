@@ -113,7 +113,7 @@ class JupyterLabSublime {
     });
     commands.addKeyBinding({
       command: 'sublime:duplicate-line',
-      keys: ['Accel Shift D'],
+      keys: ['Ctrl Shift D'],
       selector: '.CodeMirror-focused'
     });
 
